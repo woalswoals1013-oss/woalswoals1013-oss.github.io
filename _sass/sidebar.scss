@@ -281,7 +281,8 @@
 #contact{
   display:block;
   width:calc(#{$sidebarwd} - 4rem);
-  margin-top:2rem;
+  margin-top:auto;
+  margin-bottom:2rem;
   padding:1rem 2rem;
   transform:none;
 
