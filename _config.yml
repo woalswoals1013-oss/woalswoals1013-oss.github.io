@@ -6,18 +6,18 @@ profile_img: "/assets/img/profile.webp"
 # Social Links
 email: "dkswoals1003@gmail.com"
 github_username: "woalswoals1003"
-twitter_username: ""
-instagram_username: ""
-linkedin_username: ""
-facebook_username: ""
+twitter_username:
+instagram_username:
+linkedin_username:
+facebook_username:
 
 # External API
-giscus_repo: ""
-giscus_repoId: ""
-giscus_category: ""
-giscus_categoryId: ""
-goatcounter_code: ""
-google_analytics: ""
+giscus_repo:
+giscus_repoId:
+giscus_category:
+giscus_categoryId:
+goatcounter_code:
+google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
