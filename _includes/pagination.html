@@ -41,10 +41,7 @@
                             {% else %}
                                 <span class="category">None</span>
                             {% endif %}
-                            {%- assign posting_date = sub_page.date | date: "%Y-%m-%d" -%}
-                            {% if posting_date != "1900-01-01" %}
-                                <span class="date">· {{ sub_page.date | date: "%Y-%m-%d" }}</span>
-                            {% endif %}
+                            <!-- Date removed per user request -->
                         </div>
                     </div>
                 </div>
