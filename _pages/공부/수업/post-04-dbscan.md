@@ -1,6 +1,6 @@
 ---
 title: "4. 군집분석_DBSCAN"
-date: 2026-06-25
+date: 2025-06-25
 thumbnail: "/assets/img/study/4._군집분석_DBSCAN_공유용_img1.png"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "9. 그리드서치"
-date: 2026-06-21
+date: 2025-06-21
 thumbnail: "/assets/img/thumbnail/default_ml.png"
 ---
 

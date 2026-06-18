@@ -1,6 +1,6 @@
 ---
 title: "5. 로지스틱회귀분석"
-date: 2026-06-24
+date: 2025-06-24
 thumbnail: "/assets/img/thumbnail/default_ml.png"
 ---
 

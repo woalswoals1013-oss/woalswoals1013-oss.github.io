@@ -1,6 +1,6 @@
 ---
 title: "7. KNN_수박_참외_맞추기"
-date: 2026-06-23
+date: 2025-06-23
 thumbnail: "/assets/img/study/7._KNN_수박_참외_맞추기_공유용_img1.png"
 ---
 
