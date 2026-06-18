@@ -1,6 +1,7 @@
 ---
 title: "2. 다중회귀분석_공부시간시험성적"
 date: 2026-06-18
+thumbnail: "/assets/img/thumbnail/default_ml.png"
 ---
 
 # Google Colab 데이터 로드

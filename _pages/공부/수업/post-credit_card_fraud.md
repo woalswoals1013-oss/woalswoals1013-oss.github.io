@@ -1,6 +1,7 @@
 ---
 title: "실전 실습_ 신용카드 이상 탐지 (Feature Engineering)"
 date: 2026-06-18
+thumbnail: "/assets/img/thumbnail/default_ml.png"
 ---
 
 # 실습 1 신용카드 이상 탐지

@@ -1,6 +1,7 @@
 ---
 title: "5. 로지스틱회귀분석"
 date: 2026-06-18
+thumbnail: "/assets/img/thumbnail/default_ml.png"
 ---
 
 # Google Colab 데이터 로드

@@ -1,6 +1,7 @@
 ---
 title: "9. 그리드서치"
 date: 2026-06-18
+thumbnail: "/assets/img/thumbnail/default_ml.png"
 ---
 
 ## GridSearch
