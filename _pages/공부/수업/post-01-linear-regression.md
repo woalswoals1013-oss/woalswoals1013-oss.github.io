@@ -1,6 +1,6 @@
 ---
 title: "1. 선형회귀분석 기초 (Linear Regression)"
-date: "2026-06-11"
+date: 2026-06-29
 thumbnail: "/assets/img/study/linear_reg_1.png"
 ---
 

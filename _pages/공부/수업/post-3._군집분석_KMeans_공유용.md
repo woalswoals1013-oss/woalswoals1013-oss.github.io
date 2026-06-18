@@ -1,6 +1,6 @@
 ---
 title: "3. 군집분석_KMeans"
-date: 2026-06-18
+date: 2026-06-26
 thumbnail: "/assets/img/study/3._군집분석_KMeans_공유용_img1.png"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "8. K_Fold_교차검증"
-date: 2026-06-18
+date: 2026-06-22
 thumbnail: "/assets/img/thumbnail/default_ml.png"
 ---
 
