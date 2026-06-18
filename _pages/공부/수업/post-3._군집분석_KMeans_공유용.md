@@ -1,7 +1,7 @@
 ---
 title: "3. 군집분석_KMeans"
-permalink: /study/class/3._군집분석_KMeans_공유용/
 date: 2026-06-18
+thumbnail: "/assets/img/study/3._군집분석_KMeans_공유용_img1.png"
 ---
 
 # Google Colab 데이터 로드

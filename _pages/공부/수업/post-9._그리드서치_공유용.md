@@ -1,6 +1,5 @@
 ---
 title: "9. 그리드서치"
-permalink: /study/class/9._그리드서치_공유용/
 date: 2026-06-18
 ---
 

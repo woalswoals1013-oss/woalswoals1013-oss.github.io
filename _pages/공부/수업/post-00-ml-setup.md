@@ -1,6 +1,5 @@
 ---
 title: "0. 머신러닝 기본 환경 세팅"
-permalink: /study/class/00-ml-setup/
 date: 2026-06-18
 ---
 

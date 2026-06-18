@@ -1,6 +1,5 @@
 ---
 title: "실전 실습_ 신용카드 이상 탐지 (Feature Engineering)"
-permalink: /study/class/credit_card_fraud/
 date: 2026-06-18
 ---
 

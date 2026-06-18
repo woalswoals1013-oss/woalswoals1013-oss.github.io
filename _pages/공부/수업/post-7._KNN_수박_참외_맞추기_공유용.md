@@ -1,7 +1,7 @@
 ---
 title: "7. KNN_수박_참외_맞추기"
-permalink: /study/class/7._KNN_수박_참외_맞추기_공유용/
 date: 2026-06-18
+thumbnail: "/assets/img/study/7._KNN_수박_참외_맞추기_공유용_img1.png"
 ---
 
 # Google Colal 데이터 로드

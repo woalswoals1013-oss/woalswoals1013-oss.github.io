@@ -1,7 +1,7 @@
 ---
 title: "4. 군집분석_DBSCAN"
-permalink: /study/class/4._군집분석_DBSCAN_공유용/
 date: 2026-06-18
+thumbnail: "/assets/img/study/4._군집분석_DBSCAN_공유용_img1.png"
 ---
 
 # 테스트 데이터 생성

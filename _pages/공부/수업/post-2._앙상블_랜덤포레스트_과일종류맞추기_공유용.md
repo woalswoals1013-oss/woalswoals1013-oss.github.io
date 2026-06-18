@@ -1,7 +1,7 @@
 ---
 title: "2. 앙상블_랜덤포레스트_과일종류맞추기"
-permalink: /study/class/2._앙상블_랜덤포레스트_과일종류맞추기_공유용/
 date: 2026-06-18
+thumbnail: "/assets/img/study/2._앙상블_랜덤포레스트_과일종류맞추기_공유용_img1.png"
 ---
 
 # Google Colab 데이터 로드

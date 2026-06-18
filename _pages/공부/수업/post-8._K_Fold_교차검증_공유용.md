@@ -1,6 +1,5 @@
 ---
 title: "8. K_Fold_교차검증"
-permalink: /study/class/8._K_Fold_교차검증_공유용/
 date: 2026-06-18
 ---
 

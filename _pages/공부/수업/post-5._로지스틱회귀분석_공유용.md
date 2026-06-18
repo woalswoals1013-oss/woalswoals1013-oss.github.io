@@ -1,6 +1,5 @@
 ---
 title: "5. 로지스틱회귀분석"
-permalink: /study/class/5._로지스틱회귀분석_공유용/
 date: 2026-06-18
 ---
 
