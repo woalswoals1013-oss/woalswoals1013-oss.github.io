@@ -1,6 +1,6 @@
 ---
 title: "실전 실습_ 신용카드 이상 탐지 (초고속 모델 최적화 파이프라인)"
-date: 2026-06-25
+date: 2026-06-20
 thumbnail: "/assets/img/thumbnail/default_ml.png"
 ---
 
